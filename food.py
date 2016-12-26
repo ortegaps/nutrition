@@ -74,7 +74,7 @@ _('tomato'), 16, 5, 'tomate.png',
 _('wheat'), 345, 4, 'trigo.png',
 _('grape'), 68, 2, 'uvas.png',
 _('yogurt'), 38, 1, 'yogurt.png',
-_('yucca'), 120, 5, 'yuca.png',
+_('yucca or Mandioca'), 120, 5, 'yuca.png',
 _('carrot'), 37, 5, 'zanahoria.png',
 #TRANS: a soft, edible fruit native to Central America
 _('sapote'), 52, 2, 'zapote.png',
